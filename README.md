@@ -1,2 +1,2 @@
 # Just-Intonation-Journeys
-kommt noch
+Das Projekt Just Intonation Journeys untersucht vermeintlich hörbare Verschiebungen in der Tonhöhe, die beim schnellen Modulieren in weit entfernte Tonarten auftreten. Um das zu veranschaulichen, werden einige Modulationen aus dem von Max Regers bekannten Werk Beiträge zur Modulationslehre (1904) in Open Music (Just Intonation) rekonstruiert und in einem erweiterten Tonnetz visualisiert. Mit den Sequenzen ist es möglich, neue Herangehensweisen für  Kompositionsverfahren in einem mikrotonalen, harmonischen Raum zu generieren und musikalische Ausdrucksmöglichkeiten zu erschließen.
